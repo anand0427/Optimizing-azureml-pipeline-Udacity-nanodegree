@@ -99,7 +99,6 @@ HyperDrive gave 0.9096611026808296 with **LogisticRegression** and best paramete
     "spec_class": "sklearn"
 }
 ```
-![AutoML](./images/1.PNG)
 
 ## Future work
 
